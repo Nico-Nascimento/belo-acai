@@ -1,0 +1,3 @@
+module.exports=[66969,a=>{a.v({className:"poppins_f213ca71-module__cyaqIW__className"})},27572,a=>{"use strict";var b=a.i(7997),c=a.i(66969);let d={className:c.default.className,style:{fontFamily:"'Poppins', 'Poppins Fallback'",fontStyle:"normal"}};function e({children:a}){return(0,b.jsx)("html",{lang:"pt-BR",children:(0,b.jsx)("body",{className:d.className,children:a})})}null!=c.default.variable&&(d.variable=c.default.variable),a.s(["default",()=>e,"metadata",0,{title:"Belô Doces e Sabores – Açaí",description:"Pedidos online de açaí e complementos",icons:{icon:"/favicon.ico",shortcut:"@/favicon.ico",apple:"/apple-touch-icon.png"}}],27572)}];
+
+//# sourceMappingURL=%5Broot-of-the-server%5D__8dc375c5._.js.map
