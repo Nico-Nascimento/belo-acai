@@ -122,7 +122,7 @@ export default function Page() {
         return (
           `🍧 *${item.name}*\n` +
           `Quantidade: ${item.quantity}\n\n` +
-          `*Adicionais grátis:*\n${toppingsText}\n\n` +
+          `*Acompanhamentos grátis:*\n${toppingsText}\n\n` +
           `*Extras:*\n${extrasText}\n\n` +
           `*Observação:*\n${item.observation || "- Nenhuma"}\n\n` +
           `Valor unitário: R$ ${item.price
@@ -200,7 +200,6 @@ export default function Page() {
         openCart={() => setCartOpen(true)}
       />
 
-      <WhatsAppButton onClick={sendHelloWhatsApp} />
 
       <CartSidebar
         cartOpen={cartOpen}

@@ -105,7 +105,7 @@ export default function CartSidebar({
                     {/* TOPPINGS */}
                     {item.toppings.length > 0 && (
                       <div className="text-xs text-gray-700">
-                        <p className="font-medium">Adicionais grátis:</p>
+                        <p className="font-medium">Acompanhamentos grátis:</p>
                         {item.toppings.map((t, i) => (
                           <p key={i}>- {t}</p>
                         ))}
@@ -178,38 +178,6 @@ export default function CartSidebar({
               >
                 Esvaziar Carrinho
               </button>
-
-              {!showFreteInput ? (
-                <button
-                  onClick={toggleFrete}
-                  className="bg-[#b486b5] text-white py-2 rounded"
-                >
-                  Solicitar Taxa de Entrega
-                </button>
-              ) : (
-                <div className="flex flex-col gap-2">
-                  <input
-                    value={endereco}
-                    onChange={(e) => setEndereco(e.target.value)}
-                    placeholder="Digite seu endereço"
-                    className="border p-2 rounded"
-                  />
-                  <div className="flex gap-2">
-                    <button
-                      onClick={sendFrete}
-                      className="bg-[#03a064] text-white py-1 rounded flex-1"
-                    >
-                      Enviar
-                    </button>
-                    <button
-                      onClick={toggleFrete}
-                      className="bg-[#b486b5] text-white py-1 rounded flex-1"
-                    >
-                      Voltar
-                    </button>
-                  </div>
-                </div>
-              )}
 
               <button
                 onClick={sendToWhatsApp}

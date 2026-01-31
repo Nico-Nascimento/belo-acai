@@ -139,7 +139,7 @@ export default function AcaiCard({ addToCart }: AcaiCardProps) {
       {/* TOPPINGS */}
       <div>
         <h3 className="font-semibold mb-1">
-          Adicionais grátis
+          Acompanhamentos grátis
           {selectedSize && (
             <span className="text-sm text-gray-500 ml-2">
               ({selectedToppings.length}/{selectedSize.maxToppings})
@@ -149,7 +149,7 @@ export default function AcaiCard({ addToCart }: AcaiCardProps) {
 
         {!selectedSize && (
           <p className="text-sm text-gray-500 mb-2">
-            Escolha um tamanho para liberar os adicionais
+            Escolha um tamanho para liberar os acompanhamentos
           </p>
         )}
 
@@ -186,7 +186,7 @@ export default function AcaiCard({ addToCart }: AcaiCardProps) {
       {/* EXTRAS */}
       <div>
         <h3 className="font-semibold mb-2">
-          Turbinar - Adicionais Extras (+ R$ 2,00 cada)
+          Turbinar - Acompanhamentos Extras (+ R$ 2,00 cada)
           <span className="text-sm text-gray-500 ml-2">
             ({selectedExtras.length}/{MAX_EXTRAS})
           </span>
@@ -256,7 +256,7 @@ export default function AcaiCard({ addToCart }: AcaiCardProps) {
           onChange={(e) => setComment(e.target.value)}
           maxLength={140}
           rows={3}
-          placeholder="Ex: Leite condensado apenas no meio do açaí."
+          placeholder="Ex: Mais recheio do que açaí."
           className="w-full border border-gray-300 rounded-lg p-3 text-sm resize-none focus:outline-none focus:ring-2 focus:ring-[#762d78]"
         />
         <div className="text-right text-xs text-gray-500 mt-1">

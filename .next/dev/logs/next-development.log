@@ -2,3 +2,55 @@
 [00:00:12.850] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
 [00:00:13.619] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
 Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:07:27.520] Server  LOG     ✓ Compiled in 36ms
+[00:08:05.114] Server  LOG     ✓ Compiled in 34ms
+[00:08:08.234] Server  LOG     ✓ Compiled in 32ms
+[00:08:18.474] Server  LOG     ✓ Compiled in 33ms
+[00:08:22.184] Server  LOG     ✓ Compiled in 32ms
+[00:08:28.146] Server  LOG     ✓ Compiled in 31ms
+[00:08:32.217] Server  LOG     ✓ Compiled in 30ms
+[00:08:33.926] Server  LOG     ✓ Compiled in 31ms
+[00:08:34.051] Browser ERROR   uncaughtError: ReferenceError: Acompanhamentos is not defined
+[00:08:35.826] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:08:35.970] Server  LOG     ✓ Compiled in 33ms
+[00:08:36.591] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:09:38.416] Server  LOG     ✓ Compiled in 30ms
+[00:09:39.778] Server  LOG     ✓ Compiled in 29ms
+[00:09:41.769] Server  LOG     ✓ Compiled in 28ms
+[00:09:44.297] Server  LOG     ✓ Compiled in 28ms
+[00:09:50.900] Server  LOG     ✓ Compiled in 28ms
+[00:12:14.740] Server  LOG     ✓ Compiled in 37ms
+[00:15:25.178] Server  LOG     ✓ Compiled in 31ms
+[00:15:28.706] Server  LOG     ✓ Compiled in 33ms
+[00:15:31.983] Server  LOG     ✓ Compiled in 30ms
+[00:15:37.250] Server  LOG     ✓ Compiled in 29ms
+[00:15:42.649] Server  LOG     ✓ Compiled in 29ms
+[00:15:47.152] Server  LOG     ✓ Compiled in 29ms
+[00:15:50.753] Server  LOG     ✓ Compiled in 28ms
+[00:15:53.491] Server  LOG     ✓ Compiled in 29ms
+[00:20:50.781] Server  LOG     ✓ Compiled in 30ms
+[00:20:51.568] Browser ERROR   uncaughtError: ReferenceError: sendFrete is not defined
+[00:20:56.325] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:20:56.337] Server  LOG     ✓ Compiled in 31ms
+[00:20:56.472] Server  ERROR   ⨯ ReferenceError: sendFrete is not defined
+[00:20:57.562] Browser ERROR   uncaughtError: ReferenceError: sendFrete is not defined
+[00:21:03.792] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:21:03.802] Server  LOG     ✓ Compiled in 28ms
+[00:21:03.910] Server  ERROR   ⨯ ReferenceError: sendFrete is not defined
+[00:21:04.570] Browser ERROR   uncaughtError: ReferenceError: sendFrete is not defined
+[00:21:07.091] Server  WARN    ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+[00:21:07.101] Server  LOG     ✓ Compiled in 29ms
+[00:21:52.046] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:21:53.506] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:22:57.180] Server  LOG     ✓ Compiled in 30ms
+[00:23:02.381] Server  LOG     ✓ Compiled in 29ms
+[00:23:09.700] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:23:09.979] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
+[00:24:04.126] Server  LOG     ✓ Compiled in 56ms
+[00:25:02.713] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:25:03.487] Browser WARN    Image with src "/logo.jpeg" was detected as the Largest Contentful Paint (LCP). Please add the `loading="eager"` property if this image is above the fold.
+Read more: https://nextjs.org/docs/app/api-reference/components/image#loading
